@@ -1,51 +1,115 @@
-# Quiz-Game-python
+<h1>
+  <img src="logo.png" width="60" valign="bottom" alt="Quiz Game Logo">
+  Quiz Game
+</h1>
 
-A fun and interactive quiz game built using Python's Tkinter library, designed to test your knowledge in various categories such as World Knowledge, Entertainment, Sports, and Religions. The game features a countdown timer, multiple-choice questions, and a score tracker.
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
-## Features
-- Multiple categories with a variety of questions.
-- Timer countdown for each question.
-- Keeps track of correct and incorrect answers.
-- Responsive user interface built with Tkinter.
-- Fun and challenging quiz format.
+<p align="center">
+  A desktop quiz application built with Python and Tkinter featuring multiple categories, a countdown timer, and real-time score tracking.
+</p>
 
-## Screenshots
-![Screenshot1](Scr-1.png)
-![Screenshot1](Scr-2.png)
-![Screenshot1](Scr-3.png)
+<p align="center">
+  <a href="https://github.com/iamadityaranjan/quiz-game-python">
+    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+<h2>📌 About the Project</h2>
 
-## Prerequisites
+<p>
+  Quiz Game is a simple desktop application designed to test users across multiple knowledge categories through a timed quiz experience.
+</p>
 
-Before running the quiz game, make sure you have Python installed on your system along with the required libraries.
+<p>
+  Built using Python and Tkinter, the application provides an interactive interface with multiple-choice questions, a countdown timer, and score tracking throughout the game.
+</p>
 
-### Required Libraries:
-- `tkinter` (comes pre-installed with Python)
-- `Pillow` (for image handling)
+<h2>⚙️ Built With</h2>
 
-## How to Play
-1) The game will present multiple-choice questions from different categories (e.g., World Knowledge, Entertainment, etc.).
-2) Select an option and click "Submit."
-3) You have 30 seconds to answer each question. A countdown timer will be displayed.
-4) After you answer, your score will be updated, and you'll move on to the next question.
-5) The game ends when all questions have been answered. You'll see your total score.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pillow-8A2BE2?style=for-the-badge" />
+</p>
 
-You can install the required dependencies using pip:
+<h2>✨ Features</h2>
 
-```bash
-pip install pillow
-```
-```bash
-pip install tkinter
-```
+<table width="100%">
+  <tr>
+    <th align="left">Feature</th>
+    <th align="left">Description</th>
+  </tr>
 
-## Disclaimer
+  <tr>
+    <td>Multiple Categories</td>
+    <td>Questions are organized into categories such as World Knowledge, Entertainment, Sports, and Religions.</td>
+  </tr>
 
-I am not a professional Python developer, and this project is created as a fun way to learn and practice Python. While I've made an effort to ensure the code works correctly, there may still be bugs, issues, or areas for improvement. Feel free to open issues or suggest improvements if you encounter any problems!
+  <tr>
+    <td>Countdown Timer</td>
+    <td>Each question includes a timer to make the quiz more engaging and challenging.</td>
+  </tr>
 
-Please use this code at your own risk. I encourage you to learn from and modify the code, but I cannot guarantee it's error-free or the most efficient solution.
+  <tr>
+    <td>Score Tracking</td>
+    <td>Keeps track of correct and incorrect answers throughout the game.</td>
+  </tr>
 
-Thank you for your understanding and happy coding! 😊
+  <tr>
+    <td>Interactive Interface</td>
+    <td>Built with Tkinter to provide a simple and responsive desktop experience.</td>
+  </tr>
 
+  <tr>
+    <td>Multiple Choice Questions</td>
+    <td>Allows users to select answers from predefined options.</td>
+  </tr>
+</table>
 
+<h2>🎮 How It Works</h2>
 
+<ol>
+  <li>Read the question and choose one of the available options.</li>
+  <li>Submit your answer before the timer expires.</li>
+  <li>Receive instant score updates after each question.</li>
+  <li>View your final score once all questions have been completed.</li>
+</ol>
+
+<h2>📷 Preview</h2>
+
+<p align="center">
+  <img src="Scr-1.png" width="30%">
+  <img src="Scr-2.png" width="30%">
+  <img src="Scr-3.png" width="30%">
+</p>
+
+<h2>📬 Connect With Me</h2>
+
+<p align="center">
+
+  <a href="https://github.com/iamadityaranjan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/adityavranjan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.kaggle.com/aiadityaranjan">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge" />
+  </a>
+
+  <a href="mailto:ai.adityaranjan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+<br>
+
+<p align="center">
+  Thanks for checking out Quiz Game. Feedback and suggestions are always welcome.
+</p>
